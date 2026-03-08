@@ -1,4 +1,4 @@
-# TrabajoSo-ado
+# PortafolioQA
 Laboratorio 1, Progra4
 
 Analista QA 
